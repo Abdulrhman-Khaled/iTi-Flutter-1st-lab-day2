@@ -1,6 +1,5 @@
-class Rooms{
-String rooms,roomsDetails,roomsPhoto;
+class Rooms {
+  String rooms, roomsDetails, roomsPhoto;
 
-Rooms(this.rooms, this.roomsDetails, this.roomsPhoto);
-
+  Rooms(this.rooms, this.roomsDetails, this.roomsPhoto);
 }
